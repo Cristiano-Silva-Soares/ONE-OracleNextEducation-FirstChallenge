@@ -1,0 +1,86 @@
+.pageColor{
+    background-color: #f3f5fc ;
+}
+
+.lettersColors{
+    color: #6c19ff;
+    margin-left: 10%;
+    font-size: 300%;
+    margin-top: 7%;
+}
+
+.shadowItens {
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.2);
+  }
+
+.textBox{
+    width: 50%;
+    margin-left: 28%; 
+    margin-top: 15%;
+    outline: none;
+    border: none;
+}
+
+::placeholder {
+    font-style: normal;
+    font-size: 1.5em;
+    color: #6c19ff;
+    background: #f3f5fc ;
+    text-align: start;
+  }
+
+.cardMargin{
+    margin-left: 30%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    width: 18rem;
+}
+
+.cardImage{
+    width: 250px;
+    height: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.textAlert{
+    font-size: 10px;
+    margin-right: 18%;
+}
+
+.buttonStyle1 {
+    background-color: #6c19ff; 
+    border: none;
+    color: #d8dfe8;
+    font-size: 16px;
+    margin-right: 2%;
+  }
+
+  .buttonStyle2 {
+    background-color: #d8dfe8; 
+    border-color: #6c19ff;
+    color: #6c19ff;
+    font-size: 16px;
+  }
+
+  .buttonStyle3 {
+    background-color: #d8dfe8; 
+    border-color: #6c19ff;
+    color: #6c19ff;
+    font-size: 16px;
+    margin-left: 30%;
+    margin-top: 7%;
+  }
+
+
+  .footerImages{
+      margin-top: 10px;
+      padding: 20px;
+  }
+  
+  .responseBox{
+      margin-left: 12%;
+      outline: none;
+      border: none;
+      text-align: center;
+  }
